@@ -1,0 +1,1 @@
+9999999999{"name": "django-web-app", "version": "0.0.8", "summary": "a django web app", "platform": "", "requires_dist": ["django (>=1.10)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
